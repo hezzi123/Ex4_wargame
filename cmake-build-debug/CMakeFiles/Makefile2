@@ -52,12 +52,12 @@ CMAKE_BINARY_DIR = C:\Users\ariki\CLionProjects\Ex4_wargame\cmake-build-debug
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/WarGame.dir/all
+all: CMakeFiles/untitled12.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/WarGame.dir/clean
+clean: CMakeFiles/untitled12.dir/clean
 
 .PHONY : clean
 
@@ -67,31 +67,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/WarGame.dir
+# Target rules for target CMakeFiles/untitled12.dir
 
 # All Build rule for target.
-CMakeFiles/WarGame.dir/all:
-	$(MAKE) -f CMakeFiles\WarGame.dir\build.make CMakeFiles/WarGame.dir/depend
-	$(MAKE) -f CMakeFiles\WarGame.dir\build.make CMakeFiles/WarGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ariki\CLionProjects\Ex4_wargame\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target WarGame"
-.PHONY : CMakeFiles/WarGame.dir/all
+CMakeFiles/untitled12.dir/all:
+	$(MAKE) -f CMakeFiles\untitled12.dir\build.make CMakeFiles/untitled12.dir/depend
+	$(MAKE) -f CMakeFiles\untitled12.dir\build.make CMakeFiles/untitled12.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ariki\CLionProjects\Ex4_wargame\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target untitled12"
+.PHONY : CMakeFiles/untitled12.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/WarGame.dir/rule: cmake_check_build_system
+CMakeFiles/untitled12.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ariki\CLionProjects\Ex4_wargame\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/WarGame.dir/all
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/untitled12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ariki\CLionProjects\Ex4_wargame\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/WarGame.dir/rule
+.PHONY : CMakeFiles/untitled12.dir/rule
 
 # Convenience name for target.
-WarGame: CMakeFiles/WarGame.dir/rule
+untitled12: CMakeFiles/untitled12.dir/rule
 
-.PHONY : WarGame
+.PHONY : untitled12
 
 # clean rule for target.
-CMakeFiles/WarGame.dir/clean:
-	$(MAKE) -f CMakeFiles\WarGame.dir\build.make CMakeFiles/WarGame.dir/clean
-.PHONY : CMakeFiles/WarGame.dir/clean
+CMakeFiles/untitled12.dir/clean:
+	$(MAKE) -f CMakeFiles\untitled12.dir\build.make CMakeFiles/untitled12.dir/clean
+.PHONY : CMakeFiles/untitled12.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

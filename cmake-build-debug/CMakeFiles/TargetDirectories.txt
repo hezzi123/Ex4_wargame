@@ -1,3 +1,3 @@
-C:/Users/ariki/CLionProjects/Ex4_wargame/cmake-build-debug/CMakeFiles/WarGame.dir
+C:/Users/ariki/CLionProjects/Ex4_wargame/cmake-build-debug/CMakeFiles/untitled12.dir
 C:/Users/ariki/CLionProjects/Ex4_wargame/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/ariki/CLionProjects/Ex4_wargame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
